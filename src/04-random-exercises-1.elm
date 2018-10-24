@@ -1,5 +1,5 @@
 -- Exercises:
---  1) Instead of showing a number, show the die face as an image.
+--> 1) Instead of showing a number, show the die face as an image.
 --  2) Instead of showing an image of a die face, use elm/svg to draw it yourself.
 --  3) Create a weighted die with Random.weighted.
 --  4) Add a second die and have them both roll at the same time.
